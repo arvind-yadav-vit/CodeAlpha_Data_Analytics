@@ -70,6 +70,22 @@ Created visualizations such as:
 - Fare prices were highly skewed with some outliers.
 
 ---
+## 📊 Data Visualizations
+
+### Survival Count
+![Survival Count](survival_count.png)
+
+### Survival Rate by Gender
+![Gender Survival](gender_survival.png)
+
+### Survival Rate by Passenger Class
+![Passenger Class](passenger_class.png)
+
+### Age Distribution of Passengers
+![Age Distribution](age_distribution.png)
+
+### Fare Distribution of Passengers
+![Fare Distribution](fare_distribution.png)
 
 ## ▶️ How to Run the Project
 
