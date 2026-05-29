@@ -163,7 +163,7 @@ This project successfully analyzed the Titanic dataset to understand survival pa
 ## 👨‍💻 Author
 
 **Arvind Yadav**  
-MCA Student | Data Analytics Enthusiast | AI & ML Learner
+MCA Student | Data Analytics | AI & ML Enthusiast
 
 ---
 
