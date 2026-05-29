@@ -70,6 +70,15 @@ Created visualizations such as:
 - Fare prices were highly skewed with some outliers.
 
 ---
+
+## ▶️ How to Run the Project
+
+1. Clone this repository
+2. Open the notebook in Google Colab or Jupyter Notebook
+3. Run all cells
+
+----
+
 ## 📊 Data Visualizations
 
 ### Survival Count
@@ -86,12 +95,6 @@ Created visualizations such as:
 
 ### Fare Distribution of Passengers
 ![Fare Distribution](fare_distribution.png)
-
-## ▶️ How to Run the Project
-
-1. Clone this repository
-2. Open the notebook in Google Colab or Jupyter Notebook
-3. Run all cells
 
 ---
 
