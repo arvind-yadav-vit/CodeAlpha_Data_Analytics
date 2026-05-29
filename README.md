@@ -163,11 +163,12 @@ This project successfully analyzed the Titanic dataset to understand survival pa
 ## 👨‍💻 Author
 
 **Arvind Yadav**  
-MCA Student | Data Analytics | AI & ML Enthusiast
+Arvind Yadav  
+MCA Student @ VIT Vellore | Aspiring Data Analyst | Python • SQL • Power BI | AI & ML Enthusiast
 
 ---
 
 ## ⭐ Internship Project
-This project was completed as part of the **CodeAlpha Data Analytics Internship**.
+This project was successfully completed as part of the CodeAlpha Data Analytics Internship, focusing on Exploratory Data Analysis (EDA) and Data Visualization. **CodeAlpha Data Analytics Internship**.
 
 ---
