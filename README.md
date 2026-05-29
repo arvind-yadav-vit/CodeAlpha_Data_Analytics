@@ -98,18 +98,6 @@ Created visualizations such as:
 
 ---
 
-## 👨‍💻 Author
-
-**Arvind Yadav**  
-MCA Student | Data Analytics Enthusiast | AI & ML Learner
-
----
-
-## ⭐ Internship Project
-This project was completed as part of the **CodeAlpha Data Analytics Internship**.
-
----
-
 ## 💼 Business Problem
 The Titanic disaster is one of the most famous shipwrecks in history. This project analyzes passenger data to identify the key factors that influenced survival rates and understand patterns among different passenger groups.
 
@@ -130,7 +118,7 @@ After performing Exploratory Data Analysis (EDA), the following insights were id
 
 ---
 
-## 🧠 Skills Demonstrated
+## 🧠 Technical Skills
 This project demonstrates practical skills in:
 
 - Data Cleaning
@@ -171,3 +159,15 @@ Future enhancements for this project may include:
 ## 🏁 Conclusion
 This project successfully analyzed the Titanic dataset to understand survival patterns using Exploratory Data Analysis (EDA). The analysis revealed important relationships between passenger survival and features such as gender, passenger class, age, and fare price.
 
+----
+## 👨‍💻 Author
+
+**Arvind Yadav**  
+MCA Student | Data Analytics Enthusiast | AI & ML Learner
+
+---
+
+## ⭐ Internship Project
+This project was completed as part of the **CodeAlpha Data Analytics Internship**.
+
+---
